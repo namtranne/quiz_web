@@ -1,0 +1,459 @@
+{
+  "Đôi dép": [
+    {
+      "question": "Ngũ Vị Trà của Đôi Dép bao gồm bao nhiêu loại trà khác nhau?",
+      "answers": ["3", "4", "5", "6"],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "Loại trà nào KHÔNG nằm trong bộ Ngũ Vị Trà?",
+      "answers": ["Hảo Kỳ Trà", "Xuân Nhật Trà", "Ngọc Trác Trà", "Tâm Thanh Mỹ Nhân"],
+      "correctAnswer": "Tâm Thanh Mỹ Nhân"
+    },
+    {
+      "question": "Hoàng Tỳ Nhật Minh là loại trà gì?",
+      "answers": ["Trà xanh", "Trà đen (Hắc Trà)", "Trà vàng", "Trà Oolong"],
+      "correctAnswer": "Trà đen (Hắc Trà)"
+    },
+    {
+      "question": "Trà Hoàng Tỳ Nhật Minh đặc biệt phù hợp với nhóm người nào?",
+      "answers": [
+        "Người bị huyết áp cao",
+        "Người lớn tuổi hay mất ngủ, người làm việc trí óc cao",
+        "Trẻ em",
+        "Phụ nữ mang thai"
+      ],
+      "correctAnswer": "Người lớn tuổi hay mất ngủ, người làm việc trí óc cao"
+    },
+    {
+      "question": "Ngọc Trác Trà có màu nước đặc trưng là gì?",
+      "answers": ["Xanh nhạt", "Vàng óng ánh", "Nâu đỏ", "Trắng trong"],
+      "correctAnswer": "Vàng óng ánh"
+    },
+    {
+      "question": "Phong Mật Trà có hương vị nổi bật nào?",
+      "answers": ["Hoa sen", "Mật ong", "Hương cam thảo", "Sữa tươi"],
+      "correctAnswer": "Mật ong"
+    },
+    {
+      "question": "Trà nào mang lại cảm giác ấm áp, thư giãn và có màu đỏ vàng đẹp mắt?",
+      "answers": ["Ngọc Trác Trà", "Phong Mật Trà", "Hảo Kỳ Trà", "Xuân Nhật Trà"],
+      "correctAnswer": "Phong Mật Trà"
+    },
+    {
+      "question": "Xuân Nhật Trà thuộc loại trà nào?",
+      "answers": ["Trà đỏ", "Trà vàng", "Trà Oolong", "Trà xanh"],
+      "correctAnswer": "Trà vàng"
+    },
+    {
+      "question": "Xuân Nhật Trà phù hợp uống vào thời điểm nào trong ngày?",
+      "answers": ["Buổi sáng", "Buổi trưa", "Buổi chiều", "Ban đêm"],
+      "correctAnswer": "Buổi sáng"
+    },
+    {
+      "question": "Hoàng Tỳ Nhật Minh có trọng lượng đóng gói phổ biến là bao nhiêu?",
+      "answers": ["160g", "200g", "250g", "320g"],
+      "correctAnswer": "160g"
+    },
+    {
+      "question": "Hoàng Tỳ Nhật Minh 160g có giá bán là bao nhiêu?",
+      "answers": ["1.799.000đ", "2.699.000đ", "1.499.000đ", "3.000.000đ"],
+      "correctAnswer": "1.799.000đ"
+    },
+    {
+      "question": "Ngũ Vị Trà được đóng gói trong dạng hộp như thế nào?",
+      "answers": ["Hộp giấy đơn giản", "Hộp quà sang trọng, tinh tế", "Túi vải nhỏ", "Hộp thiếc tròn"],
+      "correctAnswer": "Hộp quà sang trọng, tinh tế"
+    },
+    {
+      "question": "Loại trà nào được mô tả là mang hương hoa, mùi đậu rang và vị tròn đầy?",
+      "answers": ["Hảo Kỳ Trà", "Bích Thuỷ Hoàn Nguyên", "Phong Mật Trà", "Ngọc Trác Trà"],
+      "correctAnswer": "Hảo Kỳ Trà"
+    },
+    {
+      "question": "Ngọc Trác Trà 20 x 8g có giá bao nhiêu?",
+      "answers": ["1.799.000đ", "2.699.000đ", "1.899.000đ", "1.499.000đ"],
+      "correctAnswer": "1.799.000đ"
+    },
+    {
+      "question": "Dựa trên hình ảnh, hãy chọn đúng bao bì của Phong Mật Trà 160g.",
+      "answers": [
+        "https://doidepfmcg.com/wp-content/uploads/2024/04/phong-mat-tra-160g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2024/04/ngoc-trac-tra-160g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2024/04/xuan-nhat-tra-160g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2024/04/hoang-ty-nhat-minh-tra-160g-anh-dai-dien-doi-dep-2.png"
+      ],
+      "correctAnswer": "https://doidepfmcg.com/wp-content/uploads/2024/04/phong-mat-tra-160g-anh-dai-dien-doi-dep.png"
+    },
+	{
+      "question": "Tâm Thanh Mỹ Nhân thuộc loại trà nào?",
+      "answers": ["Trà vàng", "Trà đỏ (Hồng Trà)", "Trà xanh", "Trà Oolong"],
+      "correctAnswer": "Trà đỏ (Hồng Trà)"
+    },
+    {
+      "question": "Tên gọi 'Tâm Thanh Mỹ Nhân' mang ý nghĩa gì?",
+      "answers": [
+        "Người phụ nữ thanh cao, tâm hồn trong sáng",
+        "Người đàn ông mạnh mẽ",
+        "Tinh hoa đất trời",
+        "Dòng trà cổ truyền"
+      ],
+      "correctAnswer": "Người phụ nữ thanh cao, tâm hồn trong sáng"
+    },
+    {
+      "question": "Tâm Thanh Mỹ Nhân có đặc điểm hương vị nào nổi bật?",
+      "answers": [
+        "Đậm vị khói thuốc và gỗ quế",
+        "Hương trái cây chín mọng, dư vị ngọt đậm đà",
+        "Hương hoa sen thanh khiết",
+        "Hương trà sữa nhẹ"
+      ],
+      "correctAnswer": "Hương trái cây chín mọng, dư vị ngọt đậm đà"
+    },
+    {
+      "question": "Bích Thuỷ Hoàn Nguyên là loại trà nào?",
+      "answers": ["Trà vàng", "Trà xanh (Oolong)", "Trà đen", "Trà đỏ"],
+      "correctAnswer": "Trà xanh (Oolong)"
+    },
+    {
+      "question": "Tên gọi 'Bích Thuỷ Hoàn Nguyên' có ý nghĩa là gì?",
+      "answers": [
+        "Dòng nước xanh trở lại màu lá trà ban đầu",
+        "Trà quý chỉ mọc trên đỉnh núi",
+        "Biểu trưng cho sự thanh cao của tâm hồn",
+        "Trà được lên men toàn phần"
+      ],
+      "correctAnswer": "Dòng nước xanh trở lại màu lá trà ban đầu"
+    },
+    {
+      "question": "Trà Bích Thuỷ Hoàn Nguyên có giá bán là bao nhiêu cho hộp 26x7g?",
+      "answers": ["1.799.000đ", "2.699.000đ", "2.699.000đ", "2.699.000đ"],
+      "correctAnswer": "2.699.000đ"
+    },
+    {
+      "question": "Hương Phù Ngõa Đỉnh mang ý nghĩa hình ảnh nào?",
+      "answers": [
+        "Hương thơm bay xa từ đỉnh sành",
+        "Hương trà buổi sáng trong lành",
+        "Ngọn núi trà cao nhất Việt Nam",
+        "Bầu trời mùa xuân"
+      ],
+      "correctAnswer": "Hương thơm bay xa từ đỉnh sành"
+    },
+    {
+      "question": "Loại trà nào có hương hoa lan, cỏ cây và hương sữa hòa quyện?",
+      "answers": ["Hương Phù Ngõa Đỉnh", "Phong Mật Trà", "Bích Thuỷ Hoàn Nguyên", "Tâm Thanh Mỹ Nhân"],
+      "correctAnswer": "Hương Phù Ngõa Đỉnh"
+    },
+    {
+      "question": "Bất Thụ Đông Phong thuộc loại trà gì?",
+      "answers": ["Trà vàng", "Trà đỏ", "Trà xanh", "Trà Oolong"],
+      "correctAnswer": "Trà vàng"
+    },
+    {
+      "question": "Câu nào đúng nhất về hương vị của Bất Thụ Đông Phong?",
+      "answers": [
+        "Béo bùi, đắng nhẹ và hương khói rang",
+        "Hương hoa sen và vị ngọt thanh",
+        "Mùi gỗ quế và vị đậm đà",
+        "Hương sữa dịu nhẹ"
+      ],
+      "correctAnswer": "Béo bùi, đắng nhẹ và hương khói rang"
+    },
+    {
+      "question": "Bất Thụ Đông Phong có màu nước đặc trưng là gì?",
+      "answers": ["Xanh lục nhạt", "Vàng ngả đỏ", "Nâu đen", "Vàng tươi"],
+      "correctAnswer": "Vàng ngả đỏ"
+    },
+    {
+      "question": "Bất Thụ Đông Phong 160g có giá bán là bao nhiêu?",
+      "answers": ["1.499.000đ", "2.699.000đ", "2.999.000đ", "5.999.000đ"],
+      "correctAnswer": "2.699.000đ"
+    },
+    {
+      "question": "Nếu khách tìm loại trà có màu nước vàng ngả đỏ và vị béo bùi, bạn nên giới thiệu trà nào?",
+      "answers": ["Bất Thụ Đông Phong", "Ngọc Trác Trà", "Phong Mật Trà", "Tâm Thanh Mỹ Nhân"],
+      "correctAnswer": "Bất Thụ Đông Phong"
+    },
+    {
+      "question": "Trà nào phù hợp với người thích hương trái cây tươi và vị ngọt nhẹ?",
+      "answers": ["Hương Phù Ngõa Đỉnh", "Nguyên Vị Trà", "Hoàng Tỳ Nhật Minh", "Cà Phê Native"],
+      "correctAnswer": "Hương Phù Ngõa Đỉnh"
+    },
+    {
+      "question": "Hình ảnh nào thể hiện đúng bao bì của Tâm Thanh Mỹ Nhân?",
+      "answers": [
+        "https://doidepfmcg.com/wp-content/uploads/2024/04/tam-thanh-my-nhan-tra-anh-dai-dien-doi-dep-1.png",
+        "https://doidepfmcg.com/wp-content/uploads/2024/04/bich-thuy-hoan-nguyen-tra-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2024/04/huong-phu-ngoa-dinh-tra-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2024/04/bat-thu-dong-phong-tra-160g-anh-thu-vien-2-doi-dep.png"
+      ],
+      "correctAnswer": "https://doidepfmcg.com/wp-content/uploads/2024/04/tam-thanh-my-nhan-tra-anh-dai-dien-doi-dep-1.png"
+    },
+    {
+      "question": "Điền vào chỗ trống: 'Nước trà Hương Phù Ngõa Đỉnh có màu ______ và vị ngọt ngào pha chút đắng chát nhẹ.'",
+      "answers": ["xanh vàng óng ánh", "đỏ nâu", "vàng chanh", "xanh lục"],
+      "correctAnswer": "xanh vàng óng ánh"
+    },
+	 {
+      "question": "Trà Oolong Tinh Tuyển được làm từ loại lá chè nào?",
+      "answers": [
+        "Chè Kim Tuyên và búp chè xuân mới",
+        "Chè Tứ Quý và lá trà non",
+        "Chè cổ thụ vùng cao",
+        "Chè Shan Tuyết"
+      ],
+      "correctAnswer": "Chè Kim Tuyên và búp chè xuân mới"
+    },
+    {
+      "question": "Trà Oolong Tinh Tuyển có thể pha được bao nhiêu lần nước mà vẫn giữ được hương vị?",
+      "answers": ["1 lần", "2 lần", "4 lần", "6 lần"],
+      "correctAnswer": "4 lần"
+    },
+    {
+      "question": "Trà Oolong Tinh Tuyển 160g có giá bán là bao nhiêu?",
+      "answers": ["522.000đ", "880.000đ", "1.088.000đ", "299.000đ"],
+      "correctAnswer": "522.000đ"
+    },
+    {
+      "question": "Trà Oolong Tinh Tuyển 320g có giá bán là bao nhiêu?",
+      "answers": ["522.000đ", "1.088.000đ", "880.000đ", "433.000đ"],
+      "correctAnswer": "1.088.000đ"
+    },
+    {
+      "question": "Bao bì nào đúng của Trà Oolong Tinh Tuyển 160g?",
+      "answers": [
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tinh-tuyen-160g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-thuan-160g-anh-dai-dien-doi-dep-3.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tran-vi-160g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-nhat-vi-160g-anh-dai-dien-doi-dep.png"
+      ],
+      "correctAnswer": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tinh-tuyen-160g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà nào có hương hoa nhài nhẹ nhàng và vị ngọt thanh dai dẳng?",
+      "answers": [
+        "Trà Oolong Tinh Tuyển",
+        "Trà Oolong Thuần Vị",
+        "Trà Oolong Nhất Vị",
+        "Trà Ngọc Trác"
+      ],
+      "correctAnswer": "Trà Oolong Tinh Tuyển"
+    },
+    {
+      "question": "Ngọc Thiên Chi Trà là gì?",
+      "answers": [
+        "Bộ sưu tập danh trà quý của Đôi Dép",
+        "Trà ướp hoa sen",
+        "Trà hòa tan cao cấp",
+        "Loại trà được ủ lên men tự nhiên"
+      ],
+      "correctAnswer": "Bộ sưu tập danh trà quý của Đôi Dép"
+    },
+    {
+      "question": "Ngọc Thiên Chi Trà có tổng trọng lượng bao nhiêu trong hộp?",
+      "answers": ["200g", "400g", "600g (3 x 200g)", "800g"],
+      "correctAnswer": "600g (3 x 200g)"
+    },
+    {
+      "question": "Ngọc Thiên Chi Trà có giá bán là bao nhiêu?",
+      "answers": ["2.699.000đ", "4.799.000đ", "5.999.000đ", "3.499.000đ"],
+      "correctAnswer": "4.799.000đ"
+    },
+    {
+      "question": "Trà nào được xem là quà tặng cao cấp, thiết kế tinh tế sang trọng?",
+      "answers": [
+        "Ngọc Thiên Chi Trà",
+        "Trà Oolong Thuần Vị",
+        "Bích Thuỷ Hoàn Nguyên",
+        "Hoàng Tỳ Nhật Minh"
+      ],
+      "correctAnswer": "Ngọc Thiên Chi Trà"
+    },
+    {
+      "question": "Nguyên Vị Trà thuộc loại trà nào?",
+      "answers": ["Trà vàng (Hoàng Trà)", "Trà đỏ", "Trà xanh", "Trà Oolong"],
+      "correctAnswer": "Trà vàng (Hoàng Trà)"
+    },
+    {
+      "question": "Điểm đặc biệt của Nguyên Vị Trà là gì?",
+      "answers": [
+        "Ủ bao lâu cũng không đổi vị",
+        "Có hương sữa nhẹ",
+        "Màu trà đỏ nâu",
+        "Chỉ dùng được một lần nước"
+      ],
+      "correctAnswer": "Ủ bao lâu cũng không đổi vị"
+    },
+    {
+      "question": "Nguyên Vị Trà 200g có giá bao nhiêu?",
+      "answers": ["1.499.000đ", "2.699.000đ", "1.799.000đ", "2.499.000đ"],
+      "correctAnswer": "1.499.000đ"
+    },
+    {
+      "question": "Trà nào phù hợp cho người thích vị mạnh, uống vào buổi sáng?",
+      "answers": ["Nguyên Vị Trà", "Xuân Nhật Trà", "Phong Mật Trà", "Ngọc Trác Trà"],
+      "correctAnswer": "Nguyên Vị Trà"
+    },
+    {
+      "question": "Hảo Kỳ Trà thuộc loại trà gì?",
+      "answers": ["Trà vàng", "Trà đỏ", "Trà xanh", "Trà Oolong"],
+      "correctAnswer": "Trà vàng"
+    },
+    {
+      "question": "Hảo Kỳ Trà có hương thơm đặc trưng là gì?",
+      "answers": ["Hương hoa và đậu rang", "Hương sữa và mật ong", "Hương khói nhẹ", "Hương trái cây chín"],
+      "correctAnswer": "Hương hoa và đậu rang"
+    },
+    {
+      "question": "Hảo Kỳ Trà có giá bán là bao nhiêu cho hộp 200g?",
+      "answers": ["1.499.000đ", "2.699.000đ", "1.799.000đ", "1.299.000đ"],
+      "correctAnswer": "1.499.000đ"
+    },
+    {
+      "question": "Trà nào được mô tả là tròn đầy, tinh tế và thanh tao như người quân tử?",
+      "answers": [
+        "Hảo Kỳ Trà",
+        "Tâm Thanh Mỹ Nhân",
+        "Bích Thuỷ Hoàn Nguyên",
+        "Hoàng Tỳ Nhật Minh"
+      ],
+      "correctAnswer": "Hảo Kỳ Trà"
+    },
+    {
+      "question": "Hình ảnh nào đúng với Hảo Kỳ Trà 200g?",
+      "answers": [
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/hao-ky-tra-200g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/nguyen-vi-tra-200g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2024/04/phong-mat-tra-160g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2024/04/xuan-nhat-tra-160g-anh-dai-dien-doi-dep.png"
+      ],
+      "correctAnswer": "https://doidepfmcg.com/wp-content/uploads/2023/03/hao-ky-tra-200g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Nếu khách hỏi loại trà nào có hương hoa nồng nàn và mùi đậu rang đặc trưng, bạn nên giới thiệu loại nào?",
+      "answers": ["Hảo Kỳ Trà", "Hoàng Tỳ Nhật Minh", "Ngọc Trác Trà", "Phong Mật Trà"],
+      "correctAnswer": "Hảo Kỳ Trà"
+    },
+	{
+      "question": "Trà Oolong Thuần Vị được làm từ giống chè nào?",
+      "answers": ["Kim Tuyên", "Tứ Quý", "Shan Tuyết", "Cổ Thụ"],
+      "correctAnswer": "Kim Tuyên"
+    },
+    {
+      "question": "Trà Oolong Thuần Vị có thể pha được mấy lần nước mà vẫn giữ hương vị?",
+      "answers": ["1 lần", "2 lần", "3 lần", "5 lần"],
+      "correctAnswer": "3 lần"
+    },
+    {
+      "question": "Trà Oolong Thuần Vị 160g có giá bán là bao nhiêu?",
+      "answers": ["400.000đ", "433.000đ", "220.000đ", "522.000đ"],
+      "correctAnswer": "400.000đ"
+    },
+    {
+      "question": "Trà Oolong Thuần Vị 320g có giá bán là bao nhiêu?",
+      "answers": ["1.088.000đ", "1.299.000đ", "1.088.000đ", "108.800đ"],
+      "correctAnswer": "1.088.000đ"
+    },
+    {
+      "question": "Bao bì nào đúng của Trà Oolong Thuần Vị 160g?",
+      "answers": [
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-thuan-160g-anh-dai-dien-doi-dep-3.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tran-vi-160g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-nhat-vi-160g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tinh-tuyen-160g-anh-dai-dien-doi-dep.png"
+      ],
+      "correctAnswer": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-thuan-160g-anh-dai-dien-doi-dep-3.png"
+    },
+    {
+      "question": "Trà nào có vị mềm, ngọt thanh, hậu vị chát nhẹ và chút đắng nơi cuối lưỡi?",
+      "answers": ["Trà Oolong Thuần Vị", "Trà Oolong Nhất Vị", "Trà Oolong Tinh Tuyển", "Trà Ngọc Trác Trà"],
+      "correctAnswer": "Trà Oolong Thuần Vị"
+    },
+    {
+      "question": "Trà Oolong Trân Vị có hương đặc trưng là gì?",
+      "answers": ["Cốm sữa và trái cây chín", "Hoa sen", "Gỗ quế", "Mật ong"],
+      "correctAnswer": "Cốm sữa và trái cây chín"
+    },
+    {
+      "question": "Trà Oolong Trân Vị 200g có giá bao nhiêu?",
+      "answers": ["1.088.000đ", "955.000đ", "544.000đ", "880.000đ"],
+      "correctAnswer": "1.088.000đ"
+    },
+    {
+      "question": "Hương vị Trà Oolong Trân Vị được mô tả như thế nào?",
+      "answers": [
+        "Đa tầng, nồng nàn, dư hương đọng lại",
+        "Nhẹ nhàng, thanh mát",
+        "Đậm vị gỗ quế",
+        "Vị béo bùi"
+      ],
+      "correctAnswer": "Đa tầng, nồng nàn, dư hương đọng lại"
+    },
+    {
+      "question": "Trà nào có thể pha nhiều nước mà vẫn giữ hương vị, phù hợp làm quà tặng cao cấp?",
+      "answers": ["Trà Oolong Trân Vị", "Trà Oolong Thuần Vị", "Trà Hảo Kỳ", "Trà Xuân Nhật"],
+      "correctAnswer": "Trà Oolong Trân Vị"
+    },
+    {
+      "question": "Bao bì nào thể hiện đúng Trà Oolong Trân Vị 160g?",
+      "answers": [
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tran-vi-160g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-thuan-160g-anh-dai-dien-doi-dep-3.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tinh-tuyen-160g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-nhat-vi-160g-anh-dai-dien-doi-dep.png"
+      ],
+      "correctAnswer": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tran-vi-160g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Hương Sa Trà thuộc loại trà nào?",
+      "answers": ["Trà đỏ (Hồng Trà)", "Trà vàng", "Trà xanh", "Trà Oolong"],
+      "correctAnswer": "Trà đỏ (Hồng Trà)"
+    },
+    {
+      "question": "Tên 'Hương Sa Trà' mang ý nghĩa gì?",
+      "answers": [
+        "Hương thơm của buổi sớm mai, thanh tao và an nhiên",
+        "Trà mọc bên bờ cát",
+        "Mùi thơm của cỏ non",
+        "Trà dùng trong nghi lễ"
+      ],
+      "correctAnswer": "Hương thơm của buổi sớm mai, thanh tao và an nhiên"
+    },
+    {
+      "question": "Hương Sa Trà 200g có giá bao nhiêu?",
+      "answers": ["1.499.000đ", "2.699.000đ", "1.088.000đ", "955.000đ"],
+      "correctAnswer": "1.499.000đ"
+    },
+    {
+      "question": "Trà nào giúp người thưởng thức cảm thấy bình yên, thư thái trong tâm hồn?",
+      "answers": ["Hương Sa Trà", "Bích Thuỷ Hoàn Nguyên", "Hoàng Tỳ Nhật Minh", "Ngọc Trác Trà"],
+      "correctAnswer": "Hương Sa Trà"
+    },
+    {
+      "question": "Trà Oolong Nhất Vị được làm từ giống chè nào?",
+      "answers": ["Tứ Quý", "Kim Tuyên", "Cổ Thụ", "Shan Tuyết"],
+      "correctAnswer": "Tứ Quý"
+    },
+    {
+      "question": "Trà Oolong Nhất Vị có thể pha được bao nhiêu lần nước mà vẫn giữ hương vị?",
+      "answers": ["2 lần", "3 lần", "5 lần", "6 lần"],
+      "correctAnswer": "5 lần"
+    },
+    {
+      "question": "Trà Oolong Nhất Vị 200g có giá bao nhiêu?",
+      "answers": ["880.000đ", "766.000đ", "1.088.000đ", "544.000đ"],
+      "correctAnswer": "880.000đ"
+    },
+    {
+      "question": "Khách thích vị trà đậm, bền nước, dư vị ngọt nơi cổ họng nên chọn loại nào?",
+      "answers": [
+        "Trà Oolong Nhất Vị",
+        "Trà Oolong Tinh Tuyển",
+        "Trà Oolong Thuần Vị",
+        "Trà Oolong Trân Vị"
+      ],
+      "correctAnswer": "Trà Oolong Nhất Vị"
+    }
+  ]
+}
