@@ -61,7 +61,7 @@ export default function JsxForm ({ handleInputs, nowQueries }) {
 					</div>
 
 					<div className='flex gap-3'>
-						{[2, 3, 5, 10, 20, 30, 60].map(time => (
+						{[2, 3, 5, 10, 15].map(time => (
 							<label key={time} className="w-full">
 								<input className='peer absolute hidden' type="radio" name="time" id={`${time}s`} value={time} defaultChecked={time === Number(nowQueries.time)} onChange={handleInputs} disabled={!nowQueries.timemode} />
 								<span className={`peer-checked:bg-blue-500 transition-colors  peer-checked:text-white px-2 sm:px-4 py-2 rounded mr-3 cursor-pointer bg-gray-200 text-center w-full inline-block ${!nowQueries.timemode ? 'grayscale cursor-not-allowed' : 'active:scale-95'}`} translate="no">{time}s</span>
