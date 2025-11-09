@@ -28,7 +28,7 @@ export default function MainHome () {
 				</h1>
 				<div className='bg-[#FFB6C1] absolute w-full lg:w-[41.7vw] h-40 top-16 left-0'></div>
 				<p className=' mb-20 relative'>
-					Play an infinite number of possible questions!
+					This site is made for My Thuan ^^
 				</p>
 			</article>
 			<button onClick={handlePlay} id='play' href="play" className='btn-primary uppercase px-6 py-4 text-lg max-w-md w-full mx-auto mt-10' >
