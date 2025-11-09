@@ -2,7 +2,7 @@ import categoriesJSON from '@/assets/categories.json'
 
 const MAX_QUESTIONS = 50
 const MIN_QUESTIONS = 4
-const TIMES = [2, 3, 5, 10, 15]
+const TIMES = [2, 3, 5, 10]
 const DEFAULT_TIME = 20
 const DEFAULT_QUESTIONS = 5
 const INFINITY_MODE = false
