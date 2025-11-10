@@ -7,11 +7,26 @@
 	{
 		"id": "bb",
 		"name": "Cà phê đôi dép",
-		"color": "#FFDBB6"
+		"color": "#850E35"
 	},
 	{
 		"id": "cc",
 		"name": "Thức trà",
-		"color": "#FFF2EF"
+		"color": "#FFA239"
+	},
+	{
+		"id": "dd",
+		"name": "Giá trà Rồng Vàng",
+		"color": "#41A67E"
+	},
+	{
+		"id": "ee",
+		"name": "Giá sp GUNAM",
+		"color": "#BF092F"
+	},
+	{
+		"id": "ff",
+		"name": "Giá sp Đôi dép",
+		"color": "#1055C9"
 	}
 ]

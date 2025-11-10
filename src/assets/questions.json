@@ -1246,5 +1246,1482 @@
       "correctAnswer": "A soulful harmony between two hearts through the aroma of tea",
       "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/tri-am-tra-doi-dep.png"
     }
+  ],
+  "Giá trà Rồng Vàng": [
+    {
+      "question": "Giá bán của Trà buồm hương sâm dứa Rồng Vàng gói 300gr là bao nhiêu?",
+      "answers": [
+        "35,000 VNĐ",
+        "25,000 VNĐ",
+        "39,000 VNĐ",
+        "79,000 VNĐ"
+      ],
+      "correctAnswer": "35,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà buồm hương sâm dứa Rồng Vàng giá 35,000 VNĐ có khối lượng bao nhiêu?",
+      "answers": [
+        "300gr",
+        "75gr",
+        "150gr",
+        "250gr"
+      ],
+      "correctAnswer": "300gr",
+      "image": ""
+    },
+    {
+      "question": "Trà buồm hương lài Rồng Vàng gói 300gr có giá bao nhiêu?",
+      "answers": [
+        "35,000 VNĐ",
+        "25,000 VNĐ",
+        "39,000 VNĐ",
+        "79,000 VNĐ"
+      ],
+      "correctAnswer": "35,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá Trà buồm hương sâm dứa và Trà buồm hương lài Rồng Vàng (cùng 300gr)?",
+      "answers": [
+        "Giá bằng nhau: 35,000 VNĐ",
+        "Hương sâm dứa đắt hơn",
+        "Hương lài đắt hơn",
+        "Sâm dứa 35,000 VNĐ, Lài 39,000 VNĐ"
+      ],
+      "correctAnswer": "Giá bằng nhau: 35,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Sản phẩm nào của Rồng Vàng có giá 25,000 VNĐ?",
+      "answers": [
+        "Trà xanh gói 75gr, Trà lài gói 75gr, Trà xanh sâm dứa gói 75gr",
+        "Trà buồm hương lài gói 300gr",
+        "Trà lài hộp 75gr",
+        "Trà xanh hộp 150gr"
+      ],
+      "correctAnswer": "Trà xanh gói 75gr, Trà lài gói 75gr, Trà xanh sâm dứa gói 75gr",
+      "image": ""
+    },
+    {
+      "question": "Trà xanh Rồng Vàng giá 25,000 VNĐ có khối lượng bao nhiêu và đóng gói như thế nào?",
+      "answers": [
+        "75gr - dạng gói",
+        "150gr - dạng hộp",
+        "300gr - dạng gói",
+        "75gr - dạng hộp (lon)"
+      ],
+      "correctAnswer": "75gr - dạng gói",
+      "image": ""
+    },
+    {
+      "question": "Trà lài Rồng Vàng có giá 25,000 VNĐ là loại nào?",
+      "answers": [
+        "Gói 75gr",
+        "Hộp 75gr vàng",
+        "Hộp 75gr đỏ",
+        "Hộp 150gr"
+      ],
+      "correctAnswer": "Gói 75gr",
+      "image": ""
+    },
+    {
+      "question": "Trà xanh sâm dứa Rồng Vàng gói 75gr có giá bao nhiêu?",
+      "answers": [
+        "25,000 VNĐ",
+        "35,000 VNĐ",
+        "39,000 VNĐ",
+        "79,000 VNĐ"
+      ],
+      "correctAnswer": "25,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà lài Rồng Vàng hộp 75gr (lon) có giá bao nhiêu?",
+      "answers": [
+        "39,000 VNĐ (cả vàng và đỏ)",
+        "25,000 VNĐ",
+        "35,000 VNĐ",
+        "79,000 VNĐ"
+      ],
+      "correctAnswer": "39,000 VNĐ (cả vàng và đỏ)",
+      "image": ""
+    },
+    {
+      "question": "Trà lài Rồng Vàng giá 39,000 VNĐ có khối lượng và màu hộp nào?",
+      "answers": [
+        "Hộp 75gr - có 2 màu (vàng hoặc đỏ)",
+        "Gói 75gr",
+        "Hộp 150gr",
+        "Hộp 120gr"
+      ],
+      "correctAnswer": "Hộp 75gr - có 2 màu (vàng hoặc đỏ)",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá giữa Trà lài Rồng Vàng hộp 75gr vàng và hộp 75gr đỏ?",
+      "answers": [
+        "Giá bằng nhau: 39,000 VNĐ",
+        "Hộp vàng đắt hơn",
+        "Hộp đỏ đắt hơn",
+        "Hộp vàng 35,000 VNĐ, hộp đỏ 39,000 VNĐ"
+      ],
+      "correctAnswer": "Giá bằng nhau: 39,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà xanh Rồng Vàng hộp 150gr có giá bao nhiêu?",
+      "answers": [
+        "79,000 VNĐ",
+        "25,000 VNĐ",
+        "39,000 VNĐ",
+        "35,000 VNĐ"
+      ],
+      "correctAnswer": "79,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà Rồng Vàng giá 79,000 VNĐ hộp 150gr có những loại nào?",
+      "answers": [
+        "Trà xanh, Trà lài, Trà xanh sâm dứa",
+        "Chỉ có Trà xanh",
+        "Chỉ có Trà lài",
+        "Trà xanh và Trà lài"
+      ],
+      "correctAnswer": "Trà xanh, Trà lài, Trà xanh sâm dứa",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá Trà xanh, Trà lài và Trà xanh sâm dứa Rồng Vàng hộp 150gr?",
+      "answers": [
+        "Cả 3 đều có giá 79,000 VNĐ",
+        "Trà lài đắt nhất",
+        "Trà xanh rẻ nhất",
+        "Giá khác nhau"
+      ],
+      "correctAnswer": "Cả 3 đều có giá 79,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà lài Rồng Vàng hộp 150gr có giá bao nhiêu?",
+      "answers": [
+        "79,000 VNĐ",
+        "39,000 VNĐ",
+        "25,000 VNĐ",
+        "109,000 VNĐ"
+      ],
+      "correctAnswer": "79,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà xanh sâm dứa Rồng Vàng hộp 150gr có giá bao nhiêu?",
+      "answers": [
+        "79,000 VNĐ",
+        "25,000 VNĐ",
+        "35,000 VNĐ",
+        "39,000 VNĐ"
+      ],
+      "correctAnswer": "79,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà Olong Rồng Vàng gói 250gr có giá bao nhiêu?",
+      "answers": [
+        "165,000 VNĐ (cả xanh đậm và xanh nhạt)",
+        "109,000 VNĐ",
+        "105,000 VNĐ",
+        "480,000 VNĐ"
+      ],
+      "correctAnswer": "165,000 VNĐ (cả xanh đậm và xanh nhạt)",
+      "image": ""
+    },
+    {
+      "question": "Trà Olong Rồng Vàng giá 165,000 VNĐ có khối lượng bao nhiêu?",
+      "answers": [
+        "Gói 250gr",
+        "Hộp 120gr",
+        "Hộp 100gr",
+        "Hộp 500gr"
+      ],
+      "correctAnswer": "Gói 250gr",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá Trà Olong Rồng Vàng gói 250gr xanh đậm và xanh nhạt?",
+      "answers": [
+        "Giá bằng nhau: 165,000 VNĐ",
+        "Xanh đậm đắt hơn",
+        "Xanh nhạt đắt hơn",
+        "Đậm 165,000 VNĐ, Nhạt 109,000 VNĐ"
+      ],
+      "correctAnswer": "Giá bằng nhau: 165,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà Olong Rồng Vàng Tâm An hộp 120gr có giá bao nhiêu?",
+      "answers": [
+        "109,000 VNĐ",
+        "105,000 VNĐ",
+        "165,000 VNĐ",
+        "79,000 VNĐ"
+      ],
+      "correctAnswer": "109,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà Olong Rồng Vàng Tâm An giá 109,000 VNĐ có khối lượng bao nhiêu?",
+      "answers": [
+        "Hộp 120gr",
+        "Hộp 100gr",
+        "Gói 250gr",
+        "Hộp 150gr"
+      ],
+      "correctAnswer": "Hộp 120gr",
+      "image": ""
+    },
+    {
+      "question": "Trà Olong Rồng Vàng hộp 100gr vàng có giá bao nhiêu?",
+      "answers": [
+        "105,000 VNĐ",
+        "109,000 VNĐ",
+        "165,000 VNĐ",
+        "79,000 VNĐ"
+      ],
+      "correctAnswer": "105,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà Olong Rồng Vàng giá 105,000 VNĐ là loại nào?",
+      "answers": [
+        "Hộp 100gr vàng (Tứ Quý)",
+        "Hộp 120gr Tâm An",
+        "Gói 250gr",
+        "Hộp 150gr"
+      ],
+      "correctAnswer": "Hộp 100gr vàng (Tứ Quý)",
+      "image": ""
+    },
+    {
+      "question": "Trà Olong HOÀNG KIM Rồng Vàng hộp 500gr có giá bao nhiêu?",
+      "answers": [
+        "480,000 VNĐ",
+        "390,000 VNĐ",
+        "165,000 VNĐ",
+        "109,000 VNĐ"
+      ],
+      "correctAnswer": "480,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà Olong HOÀNG KIM Rồng Vàng giá 480,000 VNĐ có quy cách đóng gói như thế nào?",
+      "answers": [
+        "Hộp 500gr (50 túi x 10gr)",
+        "Hộp 500gr nguyên khối",
+        "Gói 250gr x 2",
+        "Hộp 200gr (2 hộp 100gr)"
+      ],
+      "correctAnswer": "Hộp 500gr (50 túi x 10gr)",
+      "image": ""
+    },
+    {
+      "question": "Set trà Oolong AN NHIÊN Rồng Vàng 200gr có giá bao nhiêu?",
+      "answers": [
+        "390,000 VNĐ",
+        "480,000 VNĐ",
+        "165,000 VNĐ",
+        "109,000 VNĐ"
+      ],
+      "correctAnswer": "390,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Set trà Oolong AN NHIÊN giá 390,000 VNĐ có quy cách như thế nào?",
+      "answers": [
+        "200gr (2 hộp 100gr) - Tứ Quý",
+        "Hộp 500gr",
+        "Gói 250gr",
+        "Hộp 200gr nguyên khối"
+      ],
+      "correctAnswer": "200gr (2 hộp 100gr) - Tứ Quý",
+      "image": ""
+    },
+    {
+      "question": "Sản phẩm trà Rồng Vàng nào có giá cao nhất?",
+      "answers": [
+        "Trà Olong HOÀNG KIM hộp 500gr",
+        "Set trà Oolong AN NHIÊN 200gr",
+        "Trà Olong gói 250gr",
+        "Trà xanh hộp 150gr"
+      ],
+      "correctAnswer": "Trà Olong HOÀNG KIM hộp 500gr",
+      "image": ""
+    },
+    {
+      "question": "Sản phẩm trà Rồng Vàng nào có giá rẻ nhất?",
+      "answers": [
+        "Các loại trà gói 75gr",
+        "Trà buồm gói 300gr",
+        "Trà lài hộp 75gr",
+        "Trà hộp 150gr"
+      ],
+      "correctAnswer": "Các loại trà gói 75gr",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá Trà Olong Tâm An 120gr và Trà Olong hộp vàng 100gr?",
+      "answers": [
+        "Tâm An đắt hơn (109,000 VNĐ vs 105,000 VNĐ)",
+        "Hộp vàng đắt hơn",
+        "Giá bằng nhau",
+        "Tâm An 105,000 VNĐ, Hộp vàng 109,000 VNĐ"
+      ],
+      "correctAnswer": "Tâm An đắt hơn (109,000 VNĐ vs 105,000 VNĐ)",
+      "image": ""
+    }
+  ],
+  "Giá sp GUNAM": [
+    {
+      "question": "Hộp Cà phê Bạc sỉu GUNAM 200gr có giá bao nhiêu?",
+      "answers": [
+        "56,000 VNĐ",
+        "53,000 VNĐ",
+        "40,000 VNĐ",
+        "38,000 VNĐ"
+      ],
+      "correctAnswer": "56,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Cà phê GUNAM giá 56,000 VNĐ có những loại nào?",
+      "answers": [
+        "Bạc sỉu 200gr và Sữa đậm vị 200gr",
+        "Chỉ có Bạc sỉu",
+        "Chỉ có Sữa đậm vị",
+        "Cà phê rang xay 3in1"
+      ],
+      "correctAnswer": "Bạc sỉu 200gr và Sữa đậm vị 200gr",
+      "image": ""
+    },
+    {
+      "question": "Hộp Cà phê sữa đậm vị GUNAM 200gr có giá bao nhiêu?",
+      "answers": [
+        "56,000 VNĐ",
+        "53,000 VNĐ",
+        "40,000 VNĐ",
+        "38,000 VNĐ"
+      ],
+      "correctAnswer": "56,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá Hộp Cà phê Bạc sỉu GUNAM và Hộp Cà phê sữa đậm vị GUNAM (cùng 200gr)?",
+      "answers": [
+        "Giá bằng nhau: 56,000 VNĐ",
+        "Bạc sỉu đắt hơn",
+        "Sữa đậm vị đắt hơn",
+        "Bạc sỉu 53,000 VNĐ, Sữa đậm vị 56,000 VNĐ"
+      ],
+      "correctAnswer": "Giá bằng nhau: 56,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Hộp Cà phê Bạc sỉu GUNAM giá 56,000 VNĐ có quy cách đóng gói như thế nào?",
+      "answers": [
+        "200gr (10 gói x 20gr) - 20 hộp/thùng",
+        "340gr (20 gói x 17gr) - 20 hộp/thùng",
+        "62,5gr (25 gói x 2.5g) - 36 hộp/thùng",
+        "240gr (16 gói x 15gr) - 20 hộp/thùng"
+      ],
+      "correctAnswer": "200gr (10 gói x 20gr) - 20 hộp/thùng",
+      "image": ""
+    },
+    {
+      "question": "Hộp Cà phê rang xay hòa tan 3in1 GUNAM 340gr có giá bao nhiêu?",
+      "answers": [
+        "53,000 VNĐ",
+        "56,000 VNĐ",
+        "40,000 VNĐ",
+        "38,000 VNĐ"
+      ],
+      "correctAnswer": "53,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Cà phê GUNAM giá 53,000 VNĐ là loại nào?",
+      "answers": [
+        "Cà phê rang xay hòa tan 3in1 - 340gr",
+        "Cà phê Bạc sỉu - 200gr",
+        "Cà phê sữa đậm vị - 200gr",
+        "Không có sản phẩm nào"
+      ],
+      "correctAnswer": "Cà phê rang xay hòa tan 3in1 - 340gr",
+      "image": ""
+    },
+    {
+      "question": "Hộp Cà phê 3in1 GUNAM giá 53,000 VNĐ có quy cách như thế nào?",
+      "answers": [
+        "340gr (20 gói x 17gr) - 20 hộp/thùng",
+        "200gr (10 gói x 20gr) - 20 hộp/thùng",
+        "62,5gr (25 gói x 2.5g) - 36 hộp/thùng",
+        "240gr (16 gói x 15gr) - 20 hộp/thùng"
+      ],
+      "correctAnswer": "340gr (20 gói x 17gr) - 20 hộp/thùng",
+      "image": ""
+    },
+    {
+      "question": "Hộp trà Ô long túi lọc GUNAM 62,5gr có giá bao nhiêu?",
+      "answers": [
+        "40,000 VNĐ (cả 3 vị)",
+        "38,000 VNĐ",
+        "33,000 VNĐ",
+        "56,000 VNĐ"
+      ],
+      "correctAnswer": "40,000 VNĐ (cả 3 vị)",
+      "image": ""
+    },
+    {
+      "question": "Trà GUNAM giá 40,000 VNĐ có những loại nào?",
+      "answers": [
+        "Trà Ô long túi lọc: nguyên vị, hương đào, vị gừng (62,5gr)",
+        "Trà hòa tan vị chanh và đào",
+        "Trà Atiso túi lọc",
+        "Cà phê 3in1"
+      ],
+      "correctAnswer": "Trà Ô long túi lọc: nguyên vị, hương đào, vị gừng (62,5gr)",
+      "image": ""
+    },
+    {
+      "question": "Hộp trà Ô long túi lọc GUNAM có bao nhiêu phiên bản và giá bao nhiêu?",
+      "answers": [
+        "3 phiên bản (nguyên vị, hương đào, vị gừng) - cùng giá 40,000 VNĐ",
+        "2 phiên bản - 40,000 VNĐ",
+        "3 phiên bản - giá khác nhau",
+        "4 phiên bản - 40,000 VNĐ"
+      ],
+      "correctAnswer": "3 phiên bản (nguyên vị, hương đào, vị gừng) - cùng giá 40,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà Ô long túi lọc GUNAM giá 40,000 VNĐ có quy cách đóng gói như thế nào?",
+      "answers": [
+        "62,5gr (25 gói x 2.5g) - 36 hộp/thùng",
+        "40gr (20 gói x 2g) - 36 hộp/thùng",
+        "200gr (10 gói x 20gr) - 20 hộp/thùng",
+        "240gr (16 gói x 15gr) - 20 hộp/thùng"
+      ],
+      "correctAnswer": "62,5gr (25 gói x 2.5g) - 36 hộp/thùng",
+      "image": ""
+    },
+    {
+      "question": "Hộp trà Atiso túi lọc GUNAM 40g có giá bao nhiêu?",
+      "answers": [
+        "33,000 VNĐ",
+        "40,000 VNĐ",
+        "38,000 VNĐ",
+        "56,000 VNĐ"
+      ],
+      "correctAnswer": "33,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà GUNAM giá 33,000 VNĐ là loại nào và có khối lượng bao nhiêu?",
+      "answers": [
+        "Trà Atiso túi lọc - 40g",
+        "Trà Ô long túi lọc - 62,5gr",
+        "Trà hòa tan vị chanh - 240gr",
+        "Trà hòa tan vị đào - 240gr"
+      ],
+      "correctAnswer": "Trà Atiso túi lọc - 40g",
+      "image": ""
+    },
+    {
+      "question": "Trà Atiso GUNAM giá 33,000 VNĐ có quy cách như thế nào?",
+      "answers": [
+        "40g (20 gói x 2g) - 36 hộp/thùng",
+        "200gr (10 gói x 20gr) - 20 hộp/thùng"
+      ],
+      "correctAnswer": "240gr (16 gói x 15gr) - 20 hộp/thùng",
+      "image": ""
+    },
+    {
+      "question": "Sản phẩm GUNAM nào có giá rẻ nhất?",
+      "answers": [
+        "Hộp trà Atiso túi lọc 40g",
+        "Hộp trà hòa tan vị chanh 240gr",
+        "Hộp trà Ô long túi lọc 62,5gr",
+        "Hộp Cà phê rang xay 3in1 340gr"
+      ],
+      "correctAnswer": "Hộp trà Atiso túi lọc 40g",
+      "image": ""
+    },
+    {
+      "question": "Sản phẩm GUNAM nào có giá đắt nhất?",
+      "answers": [
+        "Cà phê Bạc sỉu và Sữa đậm vị 200gr - 56,000 VNĐ",
+        "Cà phê 3in1 340gr - 53,000 VNĐ",
+        "Trà Ô long túi lọc 62,5gr - 40,000 VNĐ",
+        "Trà hòa tan 240gr - 38,000 VNĐ"
+      ],
+      "correctAnswer": "Cà phê Bạc sỉu và Sữa đậm vị 200gr - 56,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Nếu khách đặt 10 thùng Cà phê Bạc sỉu GUNAM, tổng số hộp và giá trị là bao nhiêu?",
+      "answers": [
+        "200 hộp - 11,200,000 VNĐ",
+        "100 hộp - 5,600,000 VNĐ",
+        "200 hộp - 5,600,000 VNĐ",
+        "20 hộp - 1,120,000 VNĐ"
+      ],
+      "correctAnswer": "200 hộp - 11,200,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Khách hàng có 200,000 VNĐ muốn mua sản phẩm trà GUNAM, có thể mua được bao nhiêu hộp trà Atiso túi lọc?",
+      "answers": [
+        "6 hộp (198,000 VNĐ)",
+        "5 hộp (165,000 VNĐ)",
+        "4 hộp (132,000 VNĐ)",
+        "7 hộp (231,000 VNĐ)"
+      ],
+      "correctAnswer": "6 hộp (198,000 VNĐ)",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá giữa sản phẩm cà phê và trà GUNAM, sản phẩm nào có mức giá trung bình cao hơn?",
+      "answers": [
+        "Cà phê (53,000-56,000 VNĐ) cao hơn Trà (33,000-40,000 VNĐ)",
+        "Trà cao hơn Cà phê",
+        "Giá bằng nhau",
+        "Không thể so sánh"
+      ],
+      "correctAnswer": "Cà phê (53,000-56,000 VNĐ) cao hơn Trà (33,000-40,000 VNĐ)",
+      "image": ""
+    },
+	{
+      "question": "Hộp trà hòa tan vị chanh GUNAM 240gr có giá bao nhiêu?",
+      "answers": [
+        "38,000 VNĐ",
+        "40,000 VNĐ",
+        "33,000 VNĐ",
+        "56,000 VNĐ"
+      ],
+      "correctAnswer": "38,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà GUNAM giá 38,000 VNĐ có những loại nào?",
+      "answers": [
+        "Trà hòa tan vị chanh và vị đào (240gr)",
+        "Trà Ô long túi lọc",
+        "Trà Atiso túi lọc",
+        "Cà phê 3in1"
+      ],
+      "correctAnswer": "Trà hòa tan vị chanh và vị đào (240gr)",
+      "image": ""
+    },
+    {
+      "question": "Hộp trà hòa tan vị đào GUNAM 240gr có giá bao nhiêu?",
+      "answers": [
+        "38,000 VNĐ",
+        "40,000 VNĐ",
+        "33,000 VNĐ",
+        "56,000 VNĐ"
+      ],
+      "correctAnswer": "38,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá Hộp trà hòa tan vị chanh GUNAM và Hộp trà hòa tan vị đào GUNAM (cùng 240gr)?",
+      "answers": [
+        "Giá bằng nhau: 38,000 VNĐ",
+        "Vị chanh đắt hơn",
+        "Vị đào đắt hơn",
+        "Chanh 40,000 VNĐ, Đào 38,000 VNĐ"
+      ],
+      "correctAnswer": "Giá bằng nhau: 38,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà hòa tan GUNAM giá 38,000 VNĐ có quy cách đóng gói như thế nào?",
+      "answers": [
+        "240gr (16 gói x 15gr) - 20 hộp/thùng",
+        "62,5gr (25 gói x 2.5g) - 36 hộp/thùng",
+        "40g (20 gói x 2g) - 36 hộp/thùng",
+        "340gr (20 gói x 17gr) - hộp 20 hộp/thùng"
+	  ],
+	 "correctAnswer": "Giá bằng nhau: 38,000 VNĐ",
+      "image": ""
+	}
+  ],
+  "Giá sp Đôi dép": [
+    {
+      "question": "Ngũ vị trà 200g có giá bao nhiêu?",
+      "answers": [
+        "2,499,000 VNĐ",
+        "1,799,000 VNĐ",
+        "1,899,000 VNĐ",
+        "2,699,000 VNĐ"
+      ],
+      "correctAnswer": "2,499,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/ngu-vi-tra-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Bộ trà Đôi Dép giá 2,499,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Ngũ vị trà 200g",
+        "Tâm Thanh Mỹ Nhân 26x7g",
+        "Bất Thụ Đông Phong 160g",
+        "Hoàng Tỳ Nhật Minh 20x8g"
+      ],
+      "correctAnswer": "Ngũ vị trà 200g",
+      "image": ""
+    },
+    {
+      "question": "Hoàng Tỳ Nhật Minh có khối lượng và giá bao nhiêu?",
+      "answers": [
+        "20 x 8g (160g) - 1,799,000 VNĐ",
+        "26 x 7g (182g) - 2,699,000 VNĐ",
+        "200g - 1,499,000 VNĐ",
+        "160g - 2,699,000 VNĐ"
+      ],
+      "correctAnswer": "20 x 8g (160g) - 1,799,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/hoang-ty-nhat-minh-tra-160g-anh-dai-dien-doi-dep-2.png"
+    },
+    {
+      "question": "Trà Đôi Dép giá 1,799,000 VNĐ có những sản phẩm nào?",
+      "answers": [
+        "Hoàng Tỳ Nhật Minh 20x8g, Ngọc Trác Trà 20x8g, Xuân Nhật Trà 20x8g",
+        "Phong Mật Trà 20x8g",
+        "Tâm Thanh Mỹ Nhân 26x7g",
+        "Ngũ vị trà 200g"
+      ],
+      "correctAnswer": "Hoàng Tỳ Nhật Minh 20x8g, Ngọc Trác Trà 20x8g, Xuân Nhật Trà 20x8g",
+      "image": ""
+    },
+    {
+      "question": "Ngọc Trác Trà 20 x 8g có giá bao nhiêu?",
+      "answers": [
+        "1,799,000 VNĐ",
+        "1,899,000 VNĐ",
+        "2,499,000 VNĐ",
+        "2,699,000 VNĐ"
+      ],
+      "correctAnswer": "1,799,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/ngoc-trac-tra-160g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "So sánh giá giữa Ngọc Trác Trà và Xuân Nhật Trà (cùng 20 x 8g)?",
+      "answers": [
+        "Giá bằng nhau: 1,799,000 VNĐ",
+        "Ngọc Trác Trà đắt hơn",
+        "Xuân Nhật Trà đắt hơn",
+        "Ngọc Trác 1,799,000 VNĐ, Xuân Nhật 1,899,000 VNĐ"
+      ],
+      "correctAnswer": "Giá bằng nhau: 1,799,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Xuân Nhật Trà có quy cách và giá như thế nào?",
+      "answers": [
+        "20 x 8g (160g) - 1,799,000 VNĐ",
+        "26 x 7g (182g) - 2,699,000 VNĐ",
+        "20 x 8g (160g) - 1,899,000 VNĐ",
+        "200g - 1,499,000 VNĐ"
+      ],
+      "correctAnswer": "20 x 8g (160g) - 1,799,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/xuan-nhat-tra-160g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Phong Mật Trà 20 x 8g có giá bao nhiêu?",
+      "answers": [
+        "1,899,000 VNĐ",
+        "1,799,000 VNĐ",
+        "2,499,000 VNĐ",
+        "2,699,000 VNĐ"
+      ],
+      "correctAnswer": "1,899,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/phong-mat-tra-160g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Đôi Dép giá 1,899,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Phong Mật Trà 20x8g (160g)",
+        "Hoàng Tỳ Nhật Minh 20x8g",
+        "Ngọc Trác Trà 20x8g",
+        "Tâm Thanh Mỹ Nhân 26x7g"
+      ],
+      "correctAnswer": "Phong Mật Trà 20x8g (160g)",
+      "image": ""
+    },
+    {
+      "question": "Tâm Thanh Mỹ Nhân có quy cách và giá như thế nào?",
+      "answers": [
+        "26 x 7g (182g) - 2,699,000 VNĐ",
+        "20 x 8g (160g) - 1,799,000 VNĐ",
+        "200g - 1,499,000 VNĐ",
+        "26 x 7g (182g) - 2,499,000 VNĐ"
+      ],
+      "correctAnswer": "26 x 7g (182g) - 2,699,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/tam-thanh-my-nhan-tra-anh-dai-dien-doi-dep-1.png"
+    },
+    {
+      "question": "Trà Đôi Dép giá 2,699,000 VNĐ có những sản phẩm nào?",
+      "answers": [
+        "Tâm Thanh Mỹ Nhân 26x7g, Bích Thuỷ Hoàn Nguyên 26x7g, Hương Phù Ngõa Đỉnh 26x7g, Bất Thụ Đông Phong 160g",
+        "Chỉ Tâm Thanh Mỹ Nhân",
+        "Ngũ vị trà",
+        "Hoàng Tỳ Nhật Minh"
+      ],
+      "correctAnswer": "Tâm Thanh Mỹ Nhân 26x7g, Bích Thuỷ Hoàn Nguyên 26x7g, Hương Phù Ngõa Đỉnh 26x7g, Bất Thụ Đông Phong 160g",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá các sản phẩm 26 x 7g: Tâm Thanh Mỹ Nhân, Bích Thuỷ Hoàn Nguyên, Hương Phù Ngõa Đỉnh?",
+      "answers": [
+        "Cả 3 đều có giá 2,699,000 VNĐ",
+        "Tâm Thanh Mỹ Nhân đắt nhất",
+        "Bích Thuỷ Hoàn Nguyên rẻ nhất",
+        "Giá khác nhau"
+      ],
+      "correctAnswer": "Cả 3 đều có giá 2,699,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Bích Thuỷ Hoàn Nguyên có khối lượng và giá bao nhiêu?",
+      "answers": [
+        "26 x 7g (182g) - 2,699,000 VNĐ",
+        "20 x 8g (160g) - 1,799,000 VNĐ",
+        "200g - 1,499,000 VNĐ",
+        "160g - 2,699,000 VNĐ"
+      ],
+      "correctAnswer": "26 x 7g (182g) - 2,699,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/bich-thuy-hoan-nguyen-tra-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Hương Phù Ngõa Đỉnh có quy cách và giá như thế nào?",
+      "answers": [
+        "26 x 7g (182g) - 2,699,000 VNĐ",
+        "20 x 8g (160g) - 1,799,000 VNĐ",
+        "200g - 1,499,000 VNĐ",
+        "26 x 7g (182g) - 2,499,000 VNĐ"
+      ],
+      "correctAnswer": "26 x 7g (182g) - 2,699,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/huong-phu-ngoa-dinh-tra-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Bất Thụ Đông Phong 160g có giá bao nhiêu?",
+      "answers": [
+        "2,699,000 VNĐ",
+        "5,999,000 VNĐ",
+        "1,799,000 VNĐ",
+        "2,499,000 VNĐ"
+      ],
+      "correctAnswer": "2,699,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/bat-thu-dong-phong-tra-160g-anh-thu-vien-2-doi-dep.png"
+    },
+    {
+      "question": "Bất Thụ Đông Phong 320g có giá bao nhiêu?",
+      "answers": [
+        "5,999,000 VNĐ",
+        "2,699,000 VNĐ",
+        "4,799,000 VNĐ",
+        "1,966,000 VNĐ"
+      ],
+      "correctAnswer": "5,999,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/bat-thu-dong-phong-tra-320g-anh-thu-vien-2-doi-dep.png"
+    },
+    {
+      "question": "Bất Thụ Đông Phong giá 5,999,000 VNĐ có khối lượng bao nhiêu?",
+      "answers": [
+        "320g",
+        "160g",
+        "200g",
+        "500g"
+      ],
+      "correctAnswer": "320g",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Tinh Tuyển hộp 160g có giá bao nhiêu?",
+      "answers": [
+        "522,000 VNĐ",
+        "1,088,000 VNĐ",
+        "400,000 VNĐ",
+        "766,000 VNĐ"
+      ],
+      "correctAnswer": "522,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tinh-tuyen-160g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong Tinh Tuyển hộp giá 522,000 VNĐ có khối lượng bao nhiêu?",
+      "answers": [
+        "160g",
+        "320g",
+        "100g",
+        "200g"
+      ],
+      "correctAnswer": "160g",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Tinh Tuyển hộp 320g có giá bao nhiêu?",
+      "answers": [
+        "1,088,000 VNĐ",
+        "522,000 VNĐ",
+        "1,966,000 VNĐ",
+        "1,646,000 VNĐ"
+      ],
+      "correctAnswer": "1,088,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/tra-olong-tinh-tuyen-320g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong Tinh Tuyển túi 100g có giá bao nhiêu?",
+      "answers": [
+        "299,000 VNĐ",
+        "220,000 VNĐ",
+        "544,000 VNĐ",
+        "440,000 VNĐ"
+      ],
+      "correctAnswer": "299,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/tra-olong-tinh-tuyen-100g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong Tinh Tuyển giá 299,000 VNĐ có khối lượng và đóng gói như thế nào?",
+      "answers": [
+        "Túi 100g",
+        "Hộp 160g",
+        "Túi 200g",
+        "Hộp 320g"
+      ],
+      "correctAnswer": "Túi 100g",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Tinh Tuyển túi 200g có giá bao nhiêu?",
+      "answers": [
+        "533,000 VNĐ",
+        "299,000 VNĐ",
+        "1,088,000 VNĐ",
+        "880,000 VNĐ"
+      ],
+      "correctAnswer": "533,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/tra-olong-tinh-tuyen-200g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Ngọc Thiên Chi Trà có quy cách và giá như thế nào?",
+      "answers": [
+        "3 x 200g - 4,799,000 VNĐ",
+        "200g - 2,499,000 VNĐ",
+        "160g - 2,699,000 VNĐ",
+        "320g - 5,999,000 VNĐ"
+      ],
+      "correctAnswer": "3 x 200g - 4,799,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/ngoc-thien-chi-tra-anh-dai-dien-doi-dep-2.png"
+    },
+    {
+      "question": "Bộ trà Đôi Dép giá 4,799,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Ngọc Thiên Chi Trà 3x200g",
+        "Ngũ vị trà 200g",
+        "Bất Thụ Đông Phong 320g",
+        "Set 3 sản phẩm 26x7g"
+      ],
+      "correctAnswer": "Ngọc Thiên Chi Trà 3x200g",
+      "image": ""
+    },
+    {
+      "question": "Nguyên Vị Trà 200g có giá bao nhiêu?",
+      "answers": [
+        "1,499,000 VNĐ"
+      ],
+      "correctAnswer": "1,088,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tran-vi-200g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong Trân Vị hộp 160g có giá bao nhiêu?",
+      "answers": [
+        "955,000 VNĐ",
+        "766,000 VNĐ",
+        "522,000 VNĐ",
+        "400,000 VNĐ"
+      ],
+      "correctAnswer": "955,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tran-vi-160g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong hộp 160g giá 955,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Trà Oolong Trân Vị",
+        "Trà Oolong Nhất Vị",
+        "Trà Oolong Tinh Tuyển",
+        "Trà Oolong Thuần Vị"
+      ],
+      "correctAnswer": "Trà Oolong Trân Vị",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Trân Vị hộp 320g có giá bao nhiêu?",
+      "answers": [
+        "1,966,000 VNĐ",
+        "1,646,000 VNĐ",
+        "1,088,000 VNĐ",
+        "955,000 VNĐ"
+      ],
+      "correctAnswer": "1,966,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tran-vi-320g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong hộp 320g giá 1,966,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Trà Oolong Trân Vị",
+        "Trà Oolong Nhất Vị",
+        "Trà Oolong Tinh Tuyển",
+        "Trà Oolong Thuần Vị"
+      ],
+      "correctAnswer": "Trà Oolong Trân Vị",
+      "image": ""
+    },
+    {
+      "question": "Hương Sa Trà 200g có giá bao nhiêu?",
+      "answers": [
+        "1,499,000 VNĐ",
+        "1,799,000 VNĐ",
+        "1,088,000 VNĐ",
+        "880,000 VNĐ"
+      ],
+      "correctAnswer": "1,499,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/huong-sa-tra-200g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong Nhất Vị túi 100g có giá bao nhiêu?",
+      "answers": [
+        "440,000 VNĐ",
+        "544,000 VNĐ",
+        "299,000 VNĐ",
+        "220,000 VNĐ"
+      ],
+      "correctAnswer": "440,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-nhat-vi-100gr-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong túi 100g giá 440,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Trà Oolong Nhất Vị",
+        "Trà Oolong Trân Vị",
+        "Trà Oolong Tinh Tuyển",
+        "Trà Oolong Thuần Vị"
+      ],
+      "correctAnswer": "Trà Oolong Nhất Vị",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Nhất Vị túi 200g có giá bao nhiêu?",
+      "answers": [
+        "880,000 VNĐ",
+        "1,088,000 VNĐ",
+        "440,000 VNĐ",
+        "533,000 VNĐ"
+      ],
+      "correctAnswer": "880,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-nhat-vi-200g-anh-dai-dien-doi-dep-1.png"
+    },
+    {
+      "question": "Trà Oolong túi 200g giá 880,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Trà Oolong Nhất Vị",
+        "Trà Oolong Trân Vị",
+        "Trà Oolong Tinh Tuyển",
+        "Trà Oolong Thuần Vị"
+      ],
+      "correctAnswer": "Trà Oolong Nhất Vị",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Nhất Vị hộp 160g có giá bao nhiêu?",
+      "answers": [
+        "766,000 VNĐ",
+        "955,000 VNĐ",
+        "400,000 VNĐ",
+        "522,000 VNĐ"
+      ],
+      "correctAnswer": "766,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-nhat-vi-160g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong hộp 160g giá 766,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Trà Oolong Nhất Vị",
+        "Trà Oolong Trân Vị",
+        "Trà Oolong Tinh Tuyển",
+        "Trà Oolong Thuần Vị"
+      ],
+      "correctAnswer": "Trà Oolong Nhất Vị",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Nhất Vị hộp 320g có giá bao nhiêu?",
+      "answers": [
+        "1,646,000 VNĐ",
+        "1,966,000 VNĐ",
+        "1,088,000 VNĐ",
+        "766,000 VNĐ"
+      ],
+      "correctAnswer": "1,646,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-nhat-vi-320g-anh-thu-vien-1-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong hộp 320g giá 1,646,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Trà Oolong Nhất Vị",
+        "Trà Oolong Trân Vị",
+        "Trà Oolong Tinh Tuyển",
+        "Trà Oolong Thuần Vị"
+      ],
+      "correctAnswer": "Trà Oolong Nhất Vị",
+      "image": ""
+    },
+    {
+      "question": "Cà Phê Native 250g có giá bao nhiêu?",
+      "answers": [
+        "129,000 VNĐ",
+        "143,000 VNĐ",
+        "100,000 VNĐ",
+        "150,000 VNĐ"
+      ],
+      "correctAnswer": "129,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-native-250g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Cà phê Đôi Dép 250g giá 129,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Cà Phê Native",
+        "Cà Phê Giả Gỗ",
+        "Cà Phê Phin",
+        "Cà Phê Espresso"
+      ],
+      "correctAnswer": "Cà Phê Native",
+      "image": ""
+    },
+    {
+      "question": "Cà Phê Native 500g có giá bao nhiêu?",
+      "answers": [
+        "332,000 VNĐ",
+        "286,000 VNĐ",
+        "202,000 VNĐ",
+        "129,000 VNĐ"
+      ],
+      "correctAnswer": "332,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-native-500g-hop-xanh-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Cà Phê Giả Gỗ 250g có giá bao nhiêu?",
+      "answers": [
+        "143,000 VNĐ",
+        "129,000 VNĐ",
+        "100,000 VNĐ",
+        "150,000 VNĐ"
+      ],
+      "correctAnswer": "143,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-gia-go-250g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Cà phê Đôi Dép 250g giá 143,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Cà Phê Giả Gỗ",
+        "Cà Phê Native",
+        "Cà Phê Espresso",
+        "Cà Phê Phin"
+      ],
+      "correctAnswer": "Cà Phê Giả Gỗ",
+      "image": ""
+    },
+    {
+      "question": "Cà Phê Giả Gỗ 500g có giá bao nhiêu?",
+      "answers": [
+        "286,000 VNĐ",
+        "332,000 VNĐ",
+        "202,000 VNĐ",
+        "143,000 VNĐ"
+      ],
+      "correctAnswer": "286,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-gia-go-500g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Cà phê Đôi Dép 500g giá 286,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Cà Phê Giả Gỗ và Cà Phê DRIP (10 túi x 16g)",
+        "Cà Phê Native",
+        "Cà Phê Phin",
+        "Cà Phê PERFECT BLEND"
+      ],
+      "correctAnswer": "Cà Phê Giả Gỗ và Cà Phê DRIP (10 túi x 16g)",
+      "image": ""
+    },
+    {
+      "question": "Cà Phê Phin 250g có giá bao nhiêu?",
+      "answers": [
+        "100,000 VNĐ",
+        "129,000 VNĐ",
+        "143,000 VNĐ",
+        "150,000 VNĐ"
+      ],
+      "correctAnswer": "100,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-phin-doi-dep-500g-250g-anh-thu-vien-doi-dep.png"
+    },
+    {
+      "question": "Cà phê Đôi Dép 250g giá 100,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Cà Phê Phin",
+        "Cà Phê Native",
+        "Cà Phê Giả Gỗ",
+        "Cà Phê Espresso"
+      ],
+      "correctAnswer": "Cà Phê Phin",
+      "image": ""
+    },
+    {
+      "question": "Cà Phê Phin 500g có giá bao nhiêu?",
+      "answers": [
+        "202,000 VNĐ",
+        "286,000 VNĐ",
+        "332,000 VNĐ",
+        "100,000 VNĐ"
+      ],
+      "correctAnswer": "202,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-phin-doi-dep-500g-250g-anh-thu-vien-doi-dep.png"
+    },
+    {
+      "question": "Cà phê Đôi Dép 500g giá 202,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Cà Phê Phin",
+        "Cà Phê Giả Gỗ",
+        "Cà Phê Native",
+        "Cà Phê PERFECT BLEND"
+      ],
+      "correctAnswer": "Cà Phê Phin",
+      "image": ""
+    },
+    {
+      "question": "Cà Phê PERFECT BLEND 250g có giá bao nhiêu?",
+      "answers": [
+        "606,000 VNĐ",
+        "1,213,000 VNĐ",
+        "150,000 VNĐ",
+        "286,000 VNĐ"
+      ],
+      "correctAnswer": "606,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-perfect-blend-250g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Cà phê Đôi Dép 250g giá 606,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Cà Phê PERFECT BLEND",
+        "Cà Phê Native",
+        "Cà Phê Giả Gỗ",
+        "Cà Phê Espresso"
+      ],
+      "correctAnswer": "Cà Phê PERFECT BLEND",
+      "image": ""
+    },
+    {
+      "question": "Cà Phê PERFECT BLEND 500g có giá bao nhiêu?",
+      "answers": [
+        "1,213,000 VNĐ",
+        "606,000 VNĐ",
+        "332,000 VNĐ",
+        "286,000 VNĐ"
+      ],
+      "correctAnswer": "1,213,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-perfect-blend-250g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Cà phê Đôi Dép giá 1,213,000 VNĐ có khối lượng bao nhiêu?",
+      "answers": [
+        "500g - Cà Phê PERFECT BLEND",
+        "250g - Cà Phê PERFECT BLEND",
+        "500g - Cà Phê Native",
+        "10 túi x 16g - Cà Phê DRIP"
+      ],
+      "correctAnswer": "500g - Cà Phê PERFECT BLEND",
+      "image": ""
+    },
+    {
+      "question": "Cà Phê ESPRESSO 250g có giá bao nhiêu?",
+      "answers": [
+        "150,000 VNĐ",
+        "143,000 VNĐ",
+        "129,000 VNĐ",
+        "100,000 VNĐ"
+      ],
+      "correctAnswer": "150,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-espresso-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Cà phê Đôi Dép 250g giá 150,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Cà Phê ESPRESSO",
+        "Cà Phê Giả Gỗ",
+        "Cà Phê Native",
+        "Cà Phê Phin"
+      ],
+      "correctAnswer": "Cà Phê ESPRESSO",
+      "image": ""
+    },
+    {
+      "question": "Cà Phê DRIP có quy cách và giá như thế nào?",
+      "answers": [
+        "10 túi x 16g (160g) - 286,000 VNĐ",
+        "250g - 286,000 VNĐ",
+        "500g - 286,000 VNĐ",
+        "20 túi x 16g (320g) - 286,000 VNĐ"
+      ],
+      "correctAnswer": "10 túi x 16g (160g) - 286,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-drip-160g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Sản phẩm cà phê Đôi Dép nào có giá cao nhất?",
+      "answers": [
+        "Cà Phê PERFECT BLEND 500g",
+        "Cà Phê PERFECT BLEND 250g",
+        "Cà Phê Native 500g",
+        "Cà Phê DRIP 160g"
+      ],
+      "correctAnswer": "Cà Phê PERFECT BLEND 500g",
+      "image": ""
+    },
+    {
+      "question": "Sản phẩm cà phê Đôi Dép 250g nào có giá rẻ nhất?",
+      "answers": [
+        "Cà Phê Phin",
+        "Cà Phê Native",
+        "Cà Phê Giả Gỗ",
+        "Cà Phê Espresso"
+      ],
+      "correctAnswer": "Cà Phê Phin",
+      "image": ""
+    },
+    {
+      "question": "Sản phẩm Đôi Dép nào có giá cao nhất trong tất cả danh mục?",
+      "answers": [
+        "Bất Thụ Đông Phong 320g",
+        "Ngọc Thiên Chi Trà 3x200g",
+        "Tâm Thanh Mỹ Nhân 26x7g",
+        "Ngũ vị trà 200g"
+      ],
+      "correctAnswer": "Bất Thụ Đông Phong 320g",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá Trà Oolong Thuần Vị hộp 160g và Trà Oolong Tinh Tuyển hộp 160g?",
+      "answers": [
+        "Tinh Tuyển đắt hơn (522,000 VNĐ vs 400,000 VNĐ)",
+        "Thuần Vị đắt hơn",
+        "Giá bằng nhau",
+        "Thuần Vị 522,000 VNĐ, Tinh Tuyển 400,000 VNĐ"
+      ],
+      "correctAnswer": "Tinh Tuyển đắt hơn (522,000 VNĐ vs 400,000 VNĐ)",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá Trà Oolong Nhất Vị hộp 160g và Trà Oolong Trân Vị hộp 160g?",
+      "answers": [
+        "Trân Vị đắt hơn (955,000 VNĐ vs 766,000 VNĐ)",
+        "Nhất Vị đắt hơn",
+        "Giá bằng nhau",
+        "Nhất Vị 955,000 VNĐ, Trân Vị 766,000 VNĐ"
+      ],
+      "correctAnswer": "Trân Vị đắt hơn (955,000 VNĐ vs 766,000 VNĐ)",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá Cà Phê Native 250g và Cà Phê Giả Gỗ 250g?",
+      "answers": [
+        "Giả Gỗ đắt hơn (143,000 VNĐ vs 129,000 VNĐ)",
+        "Native đắt hơn",
+        "Giá bằng nhau",
+        "Giả Gỗ 129,000 VNĐ, Native 143,000 VNĐ"
+      ],
+      "correctAnswer": "Giả Gỗ đắt hơn (143,000 VNĐ vs 129,000 VNĐ)",
+      "image": ""
+    },
+    {
+      "question": "Khách hàng có ngân sách 1,000,000 VNĐ muốn mua trà 200g, có thể chọn sản phẩm nào?",
+      "answers": [
+        "Trà Oolong Nhất Vị (880,000 VNĐ) hoặc Trà Oolong Tinh Tuyển túi (533,000 VNĐ)",
+        "Nguyên Vị Trà (1,499,000 VNĐ)",
+        "Hảo Kỳ Trà (1,499,000 VNĐ)",
+        "Không có sản phẩm nào"
+      ],
+      "correctAnswer": "Trà Oolong Nhất Vị (880,000 VNĐ) hoặc Trà Oolong Tinh Tuyển túi (533,000 VNĐ)",
+      "image": ""
+    },
+    {
+      "question": "Sản phẩm Đôi Dép nào có nhiều lựa chọn trọng lượng nhất?",
+      "answers": [
+        "Trà Oolong Trân Vị (4 lựa chọn: 100g, 200g, 160g, 320g)",
+        "Trà Oolong Nhất Vị (4 lựa chọn: 100g, 200g, 160g, 320g)",
+        "Bất Thụ Đông Phong (2 lựa chọn)",
+        "Cà Phê Native (2 lựa chọn)"
+      ],
+      "correctAnswer": "Trà Oolong Trân Vị (4 lựa chọn: 100g, 200g, 160g, 320g)",
+      "image": ""
+    },
+    {
+      "question": "Nếu mua Trà Oolong Trân Vị hộp 320g thay vì 2 hộp 160g, lợi hay lỗ bao nhiêu?",
+      "answers": [
+        "Lỗ 56,000 VNĐ (1,966,000 VNĐ vs 1,910,000 VNĐ)",
+        "Tiết kiệm 56,000 VNĐ",
+        "Giá bằng nhau",
+        "Tiết kiệm 100,000 VNĐ"
+      ],
+      "correctAnswer": "Lỗ 56,000 VNĐ (1,966,000 VNĐ vs 1,910,000 VNĐ)",
+      "image": ""
+    },
+    {
+      "question": "So sánh giá trung bình mỗi gram của Cà Phê Native 250g và 500g?",
+      "answers": [
+        "500g rẻ hơn (516 VNĐ/g vs 664 VNĐ/g)",
+        "250g rẻ hơn",
+        "Giá mỗi gram bằng nhau",
+        "Không thể so sánh"
+      ],
+      "correctAnswer": "500g rẻ hơn (516 VNĐ/g vs 664 VNĐ/g)",
+      "image": ""
+    },
+	{
+      "question": "Trà Đôi Dép 200g giá 1,499,000 VNĐ có những sản phẩm nào?",
+      "answers": [
+        "Nguyên Vị Trà, Hảo Kỳ Trà, Hương Sa Trà",
+        "Ngọc Trác Trà",
+        "Xuân Nhật Trà",
+        "Phong Mật Trà"
+      ],
+      "correctAnswer": "Nguyên Vị Trà, Hảo Kỳ Trà, Hương Sa Trà",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Thuần Vị hộp 160g có giá bao nhiêu?",
+      "answers": [
+        "400,000 VNĐ",
+        "522,000 VNĐ",
+        "766,000 VNĐ",
+        "955,000 VNĐ"
+      ],
+      "correctAnswer": "400,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-thuan-160g-anh-dai-dien-doi-dep-3.png"
+    },
+    {
+      "question": "Trà Oolong hộp 160g giá 400,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Trà Oolong Thuần Vị",
+        "Trà Oolong Tinh Tuyển",
+        "Trà Oolong Nhất Vị",
+        "Trà Oolong Trân Vị"
+      ],
+      "correctAnswer": "Trà Oolong Thuần Vị",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Thuần Vị hộp 320g có giá bao nhiêu?",
+      "answers": [
+        "1,088,000 VNĐ",
+        "400,000 VNĐ",
+        "1,646,000 VNĐ",
+        "1,966,000 VNĐ"
+      ],
+      "correctAnswer": "1,088,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-thuan-vi-320g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong Thuần Vị túi 100g có giá bao nhiêu?",
+      "answers": [
+        "220,000 VNĐ",
+        "299,000 VNĐ",
+        "440,000 VNĐ",
+        "544,000 VNĐ"
+      ],
+      "correctAnswer": "220,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2025/04/tra-oolong-thuan-vi-100g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong túi 100g giá 220,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Trà Oolong Thuần Vị",
+        "Trà Oolong Tinh Tuyển",
+        "Trà Oolong Nhất Vị",
+        "Trà Oolong Trân Vị"
+      ],
+      "correctAnswer": "Trà Oolong Thuần Vị",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Thuần Vị túi 200g có giá bao nhiêu?",
+      "answers": [
+        "433,000 VNĐ",
+        "220,000 VNĐ",
+        "533,000 VNĐ",
+        "880,000 VNĐ"
+      ],
+      "correctAnswer": "433,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2025/04/tra-oolong-thuan-vi-100g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Hảo Kỳ Trà 200g có giá bao nhiêu?",
+      "answers": [
+        "1,499,000 VNĐ",
+        "1,799,000 VNĐ",
+        "1,088,000 VNĐ",
+        "880,000 VNĐ"
+      ],
+      "correctAnswer": "1,499,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/hao-ky-tra-200g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "So sánh giá Hảo Kỳ Trà, Nguyên Vị Trà và Hương Sa Trà (cùng 200g)?",
+      "answers": [
+        "Cả 3 đều có giá 1,499,000 VNĐ",
+        "Hảo Kỳ Trà đắt nhất",
+        "Nguyên Vị Trà rẻ nhất",
+        "Giá khác nhau"
+      ],
+      "correctAnswer": "Cả 3 đều có giá 1,499,000 VNĐ",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Trân Vị túi 100g có giá bao nhiêu?",
+      "answers": [
+        "544,000 VNĐ",
+        "440,000 VNĐ",
+        "299,000 VNĐ",
+        "220,000 VNĐ"
+      ],
+      "correctAnswer": "544,000 VNĐ",
+      "image": "https://doidepfmcg.com/wp-content/uploads/2023/03/Tra-oolong-tran-vi-200g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Trà Oolong túi 100g giá 544,000 VNĐ là sản phẩm nào?",
+      "answers": [
+        "Trà Oolong Trân Vị",
+        "Trà Oolong Nhất Vị",
+        "Trà Oolong Tinh Tuyển",
+        "Trà Oolong Thuần Vị"
+      ],
+      "correctAnswer": "Trà Oolong Trân Vị",
+      "image": ""
+    },
+    {
+      "question": "Trà Oolong Trân Vị túi 200g có giá bao nhiêu?",
+      "answers": [
+        "1,088,000 VNĐ",
+        "544,000 VNĐ",
+        "880,000 VNĐ",
+        "1,499,000 V62,5gr (25 gói x 2.5g) - 36 hộp/thùng",
+        "240gr (16 gói x 15gr) - 20 hộp/thùng",
+        "200gr (10 gói x 20gr) - 20 hộp/thùng"
+      ],
+      "correctAnswer": "40g (20 gói x 2g) - 36 hộp/thùng",
+      "image": ""
+    }
   ]
 }
