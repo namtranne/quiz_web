@@ -1,7 +1,17 @@
 [
 	{
 		"id": "aa",
-		"name": "Đôi dép",
-		"color": "rgb(59, 130, 246)"
+		"name": "Trà Đôi dép",
+		"color": "#1A2A4F"
+	},
+	{
+		"id": "bb",
+		"name": "Cà phê đôi dép",
+		"color": "#FFDBB6"
+	},
+	{
+		"id": "cc",
+		"name": "Thức trà",
+		"color": "#FFF2EF"
 	}
 ]

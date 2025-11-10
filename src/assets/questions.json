@@ -1,5 +1,5 @@
 {
-  "Đôi dép": [
+  "Trà Đôi dép": [
     {
       "question": "Ngũ Vị Trà của Đôi Dép bao gồm bao nhiêu loại trà khác nhau?",
       "answers": ["3", "4", "5", "6"],
@@ -455,166 +455,7 @@
       ],
       "correctAnswer": "Trà Oolong Nhất Vị"
     },
-	 {
-      "question": "Cà Phê Native Đôi Dép được pha chế từ tỉ lệ hạt nào?",
-      "answers": [
-        "80% Robusta Bảo Lộc, 20% Arabica Cầu Đất",
-        "100% Arabica",
-        "50% Arabica – 50% Robusta",
-        "100% Robusta"
-      ],
-      "correctAnswer": "80% Robusta Bảo Lộc, 20% Arabica Cầu Đất"
-    },
-    {
-      "question": "Cà Phê Native 250g có giá bán là bao nhiêu?",
-      "answers": ["129.000đ", "286.000đ", "332.000đ", "606.000đ"],
-      "correctAnswer": "129.000đ"
-    },
-    {
-      "question": "Cà Phê Native 500g có giá bao nhiêu?",
-      "answers": ["332.000đ", "143.000đ", "202.000đ", "121.300đ"],
-      "correctAnswer": "332.000đ"
-    },
-    {
-      "question": "Cà phê nào được mô tả là 'vừa đúng chuẩn gu Việt vừa tốt cho sức khỏe'?",
-      "answers": [
-        "Cà Phê Native",
-        "Cà Phê Giả Gỗ",
-        "Cà Phê Drip",
-        "Cà Phê Espresso"
-      ],
-      "correctAnswer": "Cà Phê Native"
-    },
-    {
-      "question": "Bao bì nào đúng với Cà Phê Native 250g?",
-      "answers": [
-        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-native-250g-anh-dai-dien-doi-dep.png",
-        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-gia-go-250g-anh-dai-dien-doi-dep.png",
-        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-phin-doi-dep-500g-250g-anh-thu-vien-doi-dep.png",
-        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-drip-160g-anh-dai-dien-doi-dep.png"
-      ],
-      "correctAnswer": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-native-250g-anh-dai-dien-doi-dep.png"
-    },
-    {
-      "question": "Cà Phê Giả Gỗ được làm từ loại hạt nào?",
-      "answers": [
-        "100% Robusta Bảo Lộc",
-        "100% Arabica Ethiopia",
-        "80% Robusta – 20% Arabica",
-        "50% Arabica – 50% Robusta"
-      ],
-      "correctAnswer": "100% Robusta Bảo Lộc"
-    },
-    {
-      "question": "Cà Phê Giả Gỗ 250g có giá bao nhiêu?",
-      "answers": ["143.000đ", "100.000đ", "129.000đ", "150.000đ"],
-      "correctAnswer": "143.000đ"
-    },
-    {
-      "question": "Cà Phê Giả Gỗ 500g có giá bao nhiêu?",
-      "answers": ["286.000đ", "332.000đ", "202.000đ", "606.000đ"],
-      "correctAnswer": "286.000đ"
-    },
-    {
-      "question": "Cà Phê Phin được làm từ hạt gì?",
-      "answers": [
-        "100% Robusta Bảo Lộc",
-        "100% Arabica Cầu Đất",
-        "Arabica Ethiopia và Robusta Bảo Lộc",
-        "Robusta – Arabica tỉ lệ 50/50"
-      ],
-      "correctAnswer": "100% Robusta Bảo Lộc"
-    },
-    {
-      "question": "Cà Phê Phin 250g có giá bán là bao nhiêu?",
-      "answers": ["100.000đ", "129.000đ", "143.000đ", "150.000đ"],
-      "correctAnswer": "100.000đ"
-    },
-    {
-      "question": "Cà Phê Phin 500g có giá bao nhiêu?",
-      "answers": ["202.000đ", "332.000đ", "286.000đ", "606.000đ"],
-      "correctAnswer": "202.000đ"
-    },
-    {
-      "question": "Bao bì nào thể hiện đúng Cà Phê Phin Đôi Dép?",
-      "answers": [
-        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-phin-doi-dep-500g-250g-anh-thu-vien-doi-dep.png",
-        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-gia-go-250g-anh-dai-dien-doi-dep.png",
-        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-perfect-blend-250g-anh-dai-dien-doi-dep.png",
-        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-native-250g-anh-dai-dien-doi-dep.png"
-      ],
-      "correctAnswer": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-phin-doi-dep-500g-250g-anh-thu-vien-doi-dep.png"
-    },
-    {
-      "question": "Cà Phê Perfect Blend có thành phần là gì?",
-      "answers": [
-        "Rubusta Việt Nam và Arabica Ethiopia",
-        "100% Arabica",
-        "100% Robusta",
-        "Robusta Bảo Lộc và Arabica Cầu Đất"
-      ],
-      "correctAnswer": "Rubusta Việt Nam và Arabica Ethiopia"
-    },
-    {
-      "question": "Cà Phê Perfect Blend 250g có giá bao nhiêu?",
-      "answers": ["606.000đ", "286.000đ", "332.000đ", "150.000đ"],
-      "correctAnswer": "606.000đ"
-    },
-    {
-      "question": "Cà Phê Perfect Blend 500g có giá bao nhiêu?",
-      "answers": ["1.213.000đ", "606.000đ", "332.000đ", "286.000đ"],
-      "correctAnswer": "1.213.000đ"
-    },
-    {
-      "question": "Cà Phê Espresso được kết hợp từ tỉ lệ hạt nào?",
-      "answers": [
-        "20% Arabica Ethiopia, 80% Robusta chất lượng cao",
-        "50% Arabica – 50% Robusta",
-        "100% Robusta",
-        "100% Arabica"
-      ],
-      "correctAnswer": "20% Arabica Ethiopia, 80% Robusta chất lượng cao"
-    },
-    {
-      "question": "Cà Phê Espresso 250g có giá bao nhiêu?",
-      "answers": ["150.000đ", "129.000đ", "286.000đ", "606.000đ"],
-      "correctAnswer": "150.000đ"
-    },
-    {
-      "question": "Loại cà phê nào được chế biến công phu và phù hợp dùng trong văn phòng hoặc làm quà tặng doanh nghiệp?",
-      "answers": [
-        "Cà Phê Espresso",
-        "Cà Phê Drip",
-        "Cà Phê Phin",
-        "Cà Phê Native"
-      ],
-      "correctAnswer": "Cà Phê Espresso"
-    },
-    {
-      "question": "Cà Phê Drip được đóng gói theo hình thức nào?",
-      "answers": [
-        "Túi phin giấy 10 túi x 16g",
-        "Hộp 250g xay sẵn",
-        "Lon cà phê hoà tan",
-        "Hộp viên nén"
-      ],
-      "correctAnswer": "Túi phin giấy 10 túi x 16g"
-    },
-    {
-      "question": "Cà Phê Drip có giá bao nhiêu?",
-      "answers": ["286.000đ", "129.000đ", "606.000đ", "150.000đ"],
-      "correctAnswer": "286.000đ"
-    },
-    {
-      "question": "Khách hàng thích sự tiện lợi và có thể pha cà phê ở bất cứ đâu nên chọn loại nào?",
-      "answers": [
-        "Cà Phê Drip",
-        "Cà Phê Espresso",
-        "Cà Phê Native",
-        "Cà Phê Phin"
-      ],
-      "correctAnswer": "Cà Phê Drip"
-    },
+	
 	{
       "question": "Trà nào của Đôi Dép có ý nghĩa là 'không sợ gió rét'?",
       "answers": ["Bất Thụ Đông Phong", "Hảo Kỳ Trà", "Ngọc Trác Trà", "Tâm Thanh Mỹ Nhân"],
@@ -856,7 +697,171 @@
       ],
       "correctAnswer": "Kết hợp 5 loại trà thượng hạng, mỗi loại mang hương vị riêng biệt",
       "image": "https://doidepfmcg.com/wp-content/uploads/2024/04/ngu-vi-tra-anh-dai-dien-doi-dep.png"
+    }
+  ],
+  "Cà phê đôi dép" : [
+	{
+      "question": "Cà Phê Native Đôi Dép được pha chế từ tỉ lệ hạt nào?",
+      "answers": [
+        "80% Robusta Bảo Lộc, 20% Arabica Cầu Đất",
+        "100% Arabica",
+        "50% Arabica – 50% Robusta",
+        "100% Robusta"
+      ],
+      "correctAnswer": "80% Robusta Bảo Lộc, 20% Arabica Cầu Đất"
     },
+    {
+      "question": "Cà Phê Native 250g có giá bán là bao nhiêu?",
+      "answers": ["129.000đ", "286.000đ", "332.000đ", "606.000đ"],
+      "correctAnswer": "129.000đ"
+    },
+    {
+      "question": "Cà Phê Native 500g có giá bao nhiêu?",
+      "answers": ["332.000đ", "143.000đ", "202.000đ", "121.300đ"],
+      "correctAnswer": "332.000đ"
+    },
+    {
+      "question": "Cà phê nào được mô tả là 'vừa đúng chuẩn gu Việt vừa tốt cho sức khỏe'?",
+      "answers": [
+        "Cà Phê Native",
+        "Cà Phê Giả Gỗ",
+        "Cà Phê Drip",
+        "Cà Phê Espresso"
+      ],
+      "correctAnswer": "Cà Phê Native"
+    },
+    {
+      "question": "Bao bì nào đúng với Cà Phê Native 250g?",
+      "answers": [
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-native-250g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-gia-go-250g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-phin-doi-dep-500g-250g-anh-thu-vien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-drip-160g-anh-dai-dien-doi-dep.png"
+      ],
+      "correctAnswer": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-native-250g-anh-dai-dien-doi-dep.png"
+    },
+    {
+      "question": "Cà Phê Giả Gỗ được làm từ loại hạt nào?",
+      "answers": [
+        "100% Robusta Bảo Lộc",
+        "100% Arabica Ethiopia",
+        "80% Robusta – 20% Arabica",
+        "50% Arabica – 50% Robusta"
+      ],
+      "correctAnswer": "100% Robusta Bảo Lộc"
+    },
+    {
+      "question": "Cà Phê Giả Gỗ 250g có giá bao nhiêu?",
+      "answers": ["143.000đ", "100.000đ", "129.000đ", "150.000đ"],
+      "correctAnswer": "143.000đ"
+    },
+    {
+      "question": "Cà Phê Giả Gỗ 500g có giá bao nhiêu?",
+      "answers": ["286.000đ", "332.000đ", "202.000đ", "606.000đ"],
+      "correctAnswer": "286.000đ"
+    },
+    {
+      "question": "Cà Phê Phin được làm từ hạt gì?",
+      "answers": [
+        "100% Robusta Bảo Lộc",
+        "100% Arabica Cầu Đất",
+        "Arabica Ethiopia và Robusta Bảo Lộc",
+        "Robusta – Arabica tỉ lệ 50/50"
+      ],
+      "correctAnswer": "100% Robusta Bảo Lộc"
+    },
+    {
+      "question": "Cà Phê Phin 250g có giá bán là bao nhiêu?",
+      "answers": ["100.000đ", "129.000đ", "143.000đ", "150.000đ"],
+      "correctAnswer": "100.000đ"
+    },
+    {
+      "question": "Cà Phê Phin 500g có giá bao nhiêu?",
+      "answers": ["202.000đ", "332.000đ", "286.000đ", "606.000đ"],
+      "correctAnswer": "202.000đ"
+    },
+    {
+      "question": "Bao bì nào thể hiện đúng Cà Phê Phin Đôi Dép?",
+      "answers": [
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-phin-doi-dep-500g-250g-anh-thu-vien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-gia-go-250g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-perfect-blend-250g-anh-dai-dien-doi-dep.png",
+        "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-native-250g-anh-dai-dien-doi-dep.png"
+      ],
+      "correctAnswer": "https://doidepfmcg.com/wp-content/uploads/2023/03/ca-phe-phin-doi-dep-500g-250g-anh-thu-vien-doi-dep.png"
+    },
+    {
+      "question": "Cà Phê Perfect Blend có thành phần là gì?",
+      "answers": [
+        "Rubusta Việt Nam và Arabica Ethiopia",
+        "100% Arabica",
+        "100% Robusta",
+        "Robusta Bảo Lộc và Arabica Cầu Đất"
+      ],
+      "correctAnswer": "Rubusta Việt Nam và Arabica Ethiopia"
+    },
+    {
+      "question": "Cà Phê Perfect Blend 250g có giá bao nhiêu?",
+      "answers": ["606.000đ", "286.000đ", "332.000đ", "150.000đ"],
+      "correctAnswer": "606.000đ"
+    },
+    {
+      "question": "Cà Phê Perfect Blend 500g có giá bao nhiêu?",
+      "answers": ["1.213.000đ", "606.000đ", "332.000đ", "286.000đ"],
+      "correctAnswer": "1.213.000đ"
+    },
+    {
+      "question": "Cà Phê Espresso được kết hợp từ tỉ lệ hạt nào?",
+      "answers": [
+        "20% Arabica Ethiopia, 80% Robusta chất lượng cao",
+        "50% Arabica – 50% Robusta",
+        "100% Robusta",
+        "100% Arabica"
+      ],
+      "correctAnswer": "20% Arabica Ethiopia, 80% Robusta chất lượng cao"
+    },
+    {
+      "question": "Cà Phê Espresso 250g có giá bao nhiêu?",
+      "answers": ["150.000đ", "129.000đ", "286.000đ", "606.000đ"],
+      "correctAnswer": "150.000đ"
+    },
+    {
+      "question": "Loại cà phê nào được chế biến công phu và phù hợp dùng trong văn phòng hoặc làm quà tặng doanh nghiệp?",
+      "answers": [
+        "Cà Phê Espresso",
+        "Cà Phê Drip",
+        "Cà Phê Phin",
+        "Cà Phê Native"
+      ],
+      "correctAnswer": "Cà Phê Espresso"
+    },
+    {
+      "question": "Cà Phê Drip được đóng gói theo hình thức nào?",
+      "answers": [
+        "Túi phin giấy 10 túi x 16g",
+        "Hộp 250g xay sẵn",
+        "Lon cà phê hoà tan",
+        "Hộp viên nén"
+      ],
+      "correctAnswer": "Túi phin giấy 10 túi x 16g"
+    },
+    {
+      "question": "Cà Phê Drip có giá bao nhiêu?",
+      "answers": ["286.000đ", "129.000đ", "606.000đ", "150.000đ"],
+      "correctAnswer": "286.000đ"
+    },
+    {
+      "question": "Khách hàng thích sự tiện lợi và có thể pha cà phê ở bất cứ đâu nên chọn loại nào?",
+      "answers": [
+        "Cà Phê Drip",
+        "Cà Phê Espresso",
+        "Cà Phê Native",
+        "Cà Phê Phin"
+      ],
+      "correctAnswer": "Cà Phê Drip"
+    }
+  ],
+  "Thức trà": [
 	{
       "question_vi": "Trong thức trà 'Tĩnh Tâm Trà', mục đích chính của việc thưởng trà là gì?",
       "question_en": "In the 'Tĩnh Tâm Trà' manner, what is the main purpose of tea appreciation?",
